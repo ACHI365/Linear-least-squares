@@ -1,4 +1,3 @@
-<hr>
 # CP3 Linear least square
  
 ## Ideas for this project:
@@ -6,10 +5,11 @@
 * Predicting car condition over years. Same logic, now considering age of the car and how many times does it get checked by technician per year
 
 ## Generating artificial data
-> I generated players and cars(brands and owners) artificially
-> However, program still can work with real data
+ I generated players and cars(brands and owners) artificially
+ However, program still can work with real data
 
 ## Implementation:
+
 ### General:
   I created corresponding classes with attributes: 
     player with full name, age, workout hours, overall rating and potential; 
@@ -25,4 +25,3 @@
  
  For the second idea, I use matrix of cars to solve (Ax = b) with custom constraint (Cx = d) by modified Gram-Schmidt or Householder depending on user's input.
 
-<hr/>
