@@ -125,7 +125,7 @@ while True:
     else:
         raise ValueError("Wrong input")
 
-    carCustom = Car("John Doe", "GMC", 26, 4)
+    carCustom = Car("Car Owner", "GMC", 26, 4)
     carVector = np.array([carCustom.getAge(), carCustom.getTechCheck()])
     result = int(np.matmul(_x, carVector))
 

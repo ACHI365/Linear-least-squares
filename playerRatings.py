@@ -105,7 +105,7 @@ while True:
     else:
         raise ValueError("Wrong input")
 
-    playerCustom = Player(21, "John Doe", "M", 27, 70)
+    playerCustom = Player(21, "Custom Player", "M", 27, 70)
     playerVector = np.array([playerCustom.getAge(), playerCustom.getRating(), playerCustom.getWorkHours()])
     result = int(np.matmul(_x, playerVector))
 
