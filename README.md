@@ -1,5 +1,5 @@
 <hr>
-# CP3 Linear least square
+## CP3 Linear least square
  
 ## Ideas for this project:
 * Predicting potential of a football U23 player, based on popular video game FIFA. Considering age, workout hours per week and current overall rating.
