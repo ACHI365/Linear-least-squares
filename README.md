@@ -5,7 +5,7 @@
 * Predicting car condition over years. Same logic, now considering age of the car and how many times does it get checked by technician per year
 
 ## Generating artificial data
- I generated players and cars(brands and owners) artificially
+ I generated players and cars(brands and owners) artificially.
  However, program still can work with real data
 
 ## Implementation:
